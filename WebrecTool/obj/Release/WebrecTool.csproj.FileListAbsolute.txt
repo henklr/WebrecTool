@@ -1,0 +1,8 @@
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\bin\Release\WebrecTool.exe.config
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\bin\Release\WebrecTool.exe
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\bin\Release\WebrecTool.pdb
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\obj\Release\WebrecTool.csproj.AssemblyReference.cache
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\obj\Release\WebrecTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\obj\Release\WebrecTool.csproj.CoreCompileInputs.cache
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\obj\Release\WebrecTool.exe
+C:\Users\rh\source\repos\WebrecTool\WebrecTool\obj\Release\WebrecTool.pdb

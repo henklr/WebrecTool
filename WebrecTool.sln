@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebrecTool", "WebrecTool\WebrecTool.csproj", "{1C9FC6F7-618F-43DF-BAB2-7703E826C27F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebrecToolSetup", "WebrecToolSetup\WebrecToolSetup.vdproj", "{5C1F867F-E43A-4B9A-AFE1-1B2C87E85A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9FC6F7-618F-43DF-BAB2-7703E826C27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9FC6F7-618F-43DF-BAB2-7703E826C27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9FC6F7-618F-43DF-BAB2-7703E826C27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9FC6F7-618F-43DF-BAB2-7703E826C27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1F867F-E43A-4B9A-AFE1-1B2C87E85A41}.Debug|Any CPU.ActiveCfg = Debug
+		{5C1F867F-E43A-4B9A-AFE1-1B2C87E85A41}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF250660-6415-48FF-AEC5-8C51D20F8B64}
+	EndGlobalSection
+EndGlobal
